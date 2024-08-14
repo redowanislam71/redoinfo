@@ -1,0 +1,31 @@
+body{
+   background-image: url("sui.jpg"); 
+   background-position: center;
+   background-attachment: fixed;
+   background-size: cover;
+   background-repeat: no-repeat;
+
+}
+h1{
+   text-shadow: 5px 5px 5px gray;
+    color: azure;
+    font-family: Bungee Tint, "consolas", sans-serif;
+}
+#p1{
+color: white;
+font-family: "consolas", sans-serif;
+}
+
+img{
+    float: right;
+}
+.fa-facebook{
+    color: blue;
+    font-size: 3rem;
+    background-color: azure;
+}
+#sui{
+    float: middle;
+}
+
+
